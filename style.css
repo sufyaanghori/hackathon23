@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+text-align: center;
+}
+
+form {
+text-align: center;
+margin-top: 50px;
+}
+
+label {
+font-size: 20px;
+}
+
+input {
+font-size: 20px;
+width: 400px;
+padding: 10px;
+margin: 10px 0;
+}
+
+button {
+font-size: 20px;
+padding: 10px 20px;
+background-color: #4CAF50;
+color: white;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+button:hover {
+background-color: #3e8e41;
+}
+
+#image-container {
+text-align: center;
+margin-top: 50px;
+}
